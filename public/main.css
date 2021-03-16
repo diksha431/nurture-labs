@@ -1,0 +1,74 @@
+.m1{
+    height: 83em;
+    width: 76.54em;
+    background-color: rgb(233, 247, 247);
+}
+.m2{
+    height: 3em;
+    width: 76em;
+    background-color: rgb(252, 241, 243);
+    margin-top: -1em;
+}
+.m3{
+    height: 3em;
+    width: 76em;
+    margin-top: 3.5em;
+    margin-left: -77em;
+}
+.m4{
+    height: 72em;
+    width: 76em;
+    margin-top: 8em;
+    margin-left: -77em;
+}
+.m5{
+    height: 62em;
+    width: 20em;
+    background-color: white;
+    margin-top: 0.5em;
+}
+.m6{
+    height: 71.5em;
+    width: 50em;
+    margin-left: 1em;
+}
+.m7{
+    font-weight: 500;
+    color: black;
+}.m8{
+    color: gray;
+    font-size: x-small;
+    font-weight: 500;
+}
+.m9{
+    margin-left: -0.6em;
+}
+.m10{
+    font-size: x-small;
+    font-weight: 700;
+    color: black;
+}
+.m11{
+    font-size: x-small;
+    font-weight: 700;
+    color: gray;
+}
+.m12{
+    font-weight: 600;
+    color: black;
+}
+.m13{
+    font-size: x-small;
+    font-weight: 700;
+    color: gray;
+}
+.m14{
+    font-size: x-small;
+    font-weight: 700;
+    color: green;
+}
+.m15{
+    font-size: x-small;
+    font-weight: 700;
+    color:orange;
+}
